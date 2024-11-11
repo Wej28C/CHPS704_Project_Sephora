@@ -1,0 +1,3 @@
+- clusterisation des brands par prix des produits
+- sélectionner un type de produit (crème visage, par exemple) et estimer le rating en fonction des composants (il faudra séparer les composants et faire un deuxième dataset)
+- prédire le rating/nombre de reviews/nombre de "love" d'un futur produit en fonction de son type, marque et de la plage de prix annoncé 
